@@ -13,6 +13,6 @@ Esta acción muestra "hello world" o "hello X", donde X es el nombre suministrad
 El momento en el que se produce el saludo
 
 ## Ejemplo
-uses: actions/hello-world-javascript-action@v1
-with:
+uses: actions/hello-world-javascript-action@v1  
+with:  
   who-to-greet: 'Sergio'
